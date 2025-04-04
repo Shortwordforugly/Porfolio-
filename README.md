@@ -17,7 +17,7 @@
 ### 1. [Thumbnail Recreation]
 🌟 **Key Features:** Responsive , geolocation, 5-day forecasts  
 
-### 2. [Project Name](GitHub Link)  
+### 2. [
 📌 *Brief description*  
 ✅ **Tech Stack:** Python, Flask, PostgreSQL  
 🌟 **Key Features:** User authentication, data visualization  
