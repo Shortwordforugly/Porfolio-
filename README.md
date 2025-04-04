@@ -1,5 +1,4 @@
-# Porfolio
-# 📂 Portfolio: [Marshall Dre]  
+## 📂 Portfolio
 
 👋 Hello! I'm **[Marshall Dre]**, a Student/Trying to Make a living
 📍 **Location:** [Philippines] | ✉️ **Email:** [iammarshalldremolina@gmail.com] | 
